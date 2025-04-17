@@ -1,7 +1,10 @@
 original: https://github.com/couchbaselabs/mobile-dart-flutter-plugin
+
 target: Android, iOS, Web
 
-# 実行環境 (Apr 17, 2025)
+<br>
+
+### 実行環境 (Apr 17, 2025)
 Flutter 3.24以降ではNG → https://github.com/cbl-dart/cbl-dart/issues/598
 ```
 $ flutter doctor
@@ -25,7 +28,7 @@ Doctor summary (to see all details, run flutter doctor -v):
 
 <br>
 
-# example 動作確認結果 (Apr 17, 2025)
+### example 動作確認結果 (Apr 17, 2025)
 
 チャット画面の起動と `Send` ボタンが押せるまで。機能確認にはサーバ (Sync Gateway) が必要
 
@@ -73,7 +76,7 @@ Error: Gradle task assembleDebug failed with exit code 1
 
 以下、オリジナルのREADME
 
-<br>
+---
 
 # Couchbase Lite Flutter Plugin
 
